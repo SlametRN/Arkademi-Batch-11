@@ -2,4 +2,4 @@
 Kloter 5
 
 
-1. Kegunaan Rest Api Pada Json adalah untuk mendirikan sebuah server tiruan ketika sedang mengembangkan aplikasi dengan usaha minimal.
+1. Kegunaan Json pada Rest Api adalah untuk mendirikan sebuah server tiruan ketika sedang mengembangkan aplikasi dengan usaha minimal.
